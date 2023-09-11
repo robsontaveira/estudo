@@ -1,0 +1,1 @@
+Texto para teste do curso DSA usando o google colab, tentar abrir este arquivo no colab.

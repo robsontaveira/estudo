@@ -1,0 +1,4 @@
+Cientista de dados 
+pode ser uma otima alternativa de carreira.
+Esses profissionais precisão saber como programar em python
+E, claro, devem ser proeficientes em Data Science
