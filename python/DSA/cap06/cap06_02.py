@@ -102,3 +102,5 @@ with open('dados.txt','r') as arquivo:
 print(dados)
 
 
+print('\nFim do codigo')
+
