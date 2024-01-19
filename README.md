@@ -1,2 +1,2 @@
-# estudoLinguagens
- Material de estudo de sintaxe de variadas linguagens.
+# estudo
+ Material de estudo.
